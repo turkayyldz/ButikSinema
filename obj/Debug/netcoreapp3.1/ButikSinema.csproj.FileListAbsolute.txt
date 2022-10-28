@@ -1,0 +1,14 @@
+C:\Users\MKURT\source\repos\ButikSinema\bin\Debug\netcoreapp3.1\ButikSinema.exe
+C:\Users\MKURT\source\repos\ButikSinema\bin\Debug\netcoreapp3.1\ButikSinema.deps.json
+C:\Users\MKURT\source\repos\ButikSinema\bin\Debug\netcoreapp3.1\ButikSinema.runtimeconfig.json
+C:\Users\MKURT\source\repos\ButikSinema\bin\Debug\netcoreapp3.1\ButikSinema.runtimeconfig.dev.json
+C:\Users\MKURT\source\repos\ButikSinema\bin\Debug\netcoreapp3.1\ButikSinema.dll
+C:\Users\MKURT\source\repos\ButikSinema\bin\Debug\netcoreapp3.1\ButikSinema.pdb
+C:\Users\MKURT\source\repos\ButikSinema\obj\Debug\netcoreapp3.1\ButikSinema.csproj.AssemblyReference.cache
+C:\Users\MKURT\source\repos\ButikSinema\obj\Debug\netcoreapp3.1\ButikSinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKURT\source\repos\ButikSinema\obj\Debug\netcoreapp3.1\ButikSinema.AssemblyInfoInputs.cache
+C:\Users\MKURT\source\repos\ButikSinema\obj\Debug\netcoreapp3.1\ButikSinema.AssemblyInfo.cs
+C:\Users\MKURT\source\repos\ButikSinema\obj\Debug\netcoreapp3.1\ButikSinema.csproj.CoreCompileInputs.cache
+C:\Users\MKURT\source\repos\ButikSinema\obj\Debug\netcoreapp3.1\ButikSinema.dll
+C:\Users\MKURT\source\repos\ButikSinema\obj\Debug\netcoreapp3.1\ButikSinema.pdb
+C:\Users\MKURT\source\repos\ButikSinema\obj\Debug\netcoreapp3.1\ButikSinema.genruntimeconfig.cache
